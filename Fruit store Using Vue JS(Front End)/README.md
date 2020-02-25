@@ -1,4 +1,4 @@
-# inmar
+Vue JS Demo Project
 
 > A Vue.js project
 
